@@ -3,8 +3,8 @@
 
 function App() {
   return (
-    <div className="App">
-      <h2 className="text-mehmet mt-128 border-sosyalBilisim border-2">Merhaba</h2>
+    <div className="App bg-booking-dark">
+      <h2 className="border-2 text-violet-900 mt-14 bg-sosyalBilisim bg-booking-third">Merhaba</h2>
     </div>
   );
 }
