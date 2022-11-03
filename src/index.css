@@ -3,5 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  
+    .buttons {
+        @apply flex justify-center items-center rounded-full font-bold h-16 sm:w-16 mb-3 sm:mb-0;
+    }
 }
